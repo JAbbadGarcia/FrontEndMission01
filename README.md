@@ -23,4 +23,4 @@ Practica FrontEnd Mission 01
 <br>
 <br>
 <br>
-<img src="https://github.com/JAbbadGarcia/FrontEndMission01/blob/main/LaunchX.png" alt="Launch X">
+<img src="https://github.com/JAbbadGarcia/FrontEndMission01/blob/main/Launch_X.png" alt="Launch X">
